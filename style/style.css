@@ -249,7 +249,7 @@ button:hover {
 #footer {
     width: 100vw;
     height: 33.25vh;
-    max-height: 266px;
+    max-height: 268px;
     display: inline-flex;
     position: relative;
     justify-content: space-between;
@@ -266,9 +266,9 @@ button:hover {
 }
 
 #footerDesc {
-    width: 33.66%;
-    padding-left: 3.33%;
-    padding-right: 3.33%;
+    width: auto;
+    padding-left: 3%;
+    padding-right: 3%;
     margin-top: auto;
     margin-bottom: auto;
 }
