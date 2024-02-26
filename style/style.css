@@ -30,6 +30,8 @@ body {
     padding: 0px;
     width: 100vw;
     height: 100vh;
+    max-width: 1440px;
+    max-height: 800px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -111,6 +113,7 @@ li:hover:after {
 #carousel {
     width: 100vw;
     height: 66.75vh;
+    max-height: 532px;
     position: relative;
     display: flex;
 }
@@ -246,6 +249,7 @@ button:hover {
 #footer {
     width: 100vw;
     height: 33.25vh;
+    max-height: 266px;
     display: inline-flex;
     position: relative;
     justify-content: space-between;
